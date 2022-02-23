@@ -1,0 +1,65 @@
+[
+{
+    "Name":"Modern Design",
+    "SellRent":1,
+    "Id":22,
+    "Price":232,
+    "Type":"House"
+  },
+  {
+    "Name":" Budjet",
+    "SellRent":1,
+
+    "Id":2,
+    "Price":2200,
+    "Type":"Villa",
+    "Image":"prop-6"
+  },
+  {
+    "Name":"Luxury House",
+    "SellRent":1,
+    "Id":1,
+    "Price":1200,
+    "Type":"House"
+  },
+  {
+    "Name":"Modern Budjet",
+    "SellRent":1,
+    "Id":2,
+    "Price":2200,
+    "Type":"Villa"
+  },
+  {
+    "Name":"Old Style",
+    "SellRent":1,
+    "Id":3,
+    "Price":5222,
+    "Type":"Flat"
+    ,
+    "Image":"prop-1"
+  },
+  {
+    "Name":"New Style",
+    "Id":1,
+    "SellRent":1,
+    "Price":1200,
+    "Type":"House",
+    "Image":"prop-2"
+  },
+  {
+    "Name":"New Style",
+    "Id":1,
+    "SellRent":1,
+    "Price":1200,
+    "Type":"House",
+    "Image":"prop-3"
+  },
+  {
+    "Name":"For Rent..",
+    "Id":1,
+    "Price":1200,
+    "SellRent":2,
+    "Type":"House",
+    "Image":"prop-4"
+  }
+]

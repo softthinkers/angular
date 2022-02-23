@@ -1,4 +1,37 @@
-.image-default{
-height: 180px;
-width: 180px;
-}    
+   
+.card:hover img{
+transform: scale(1.5,1.5);
+transition-timing-function:ease-in-out;
+transition-duration: 500ms;
+height: 250px;
+opacity: .5;
+}
+
+.card-img-wrapper{
+ overflow: hidden;  
+  position:relative; 
+}
+.card img{
+    transform: scale(1,1);
+    transition-timing-function:ease-in-out;
+    transition-duration: 500ms;
+    height: 200px;
+    background-color:beige;
+    }
+    .member-icons{
+        bottom: -10%;
+        left: 0px;
+        right: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        position: absolute;
+        opacity: 0;
+    }
+.card-img-wrapper:hover .member-icons{
+    bottom: 0px;
+    opacity: 1;
+    
+}
+.animate{
+    transition:all 0.3s ease-in-out;
+}
